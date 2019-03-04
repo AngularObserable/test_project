@@ -1,0 +1,153 @@
+/**
+ *
+ * Apply your custom CSS here
+ *
+*/
+
+.main-menu > li > a > i{
+	font-size: 20px;
+}
+
+
+
+.sidebar-menu.fixed.admin.collapsed span{
+	display: block;
+	margin-left: 10px;
+}
+
+.sidebar-menu.fixed.collapsed img{
+	float: none;
+}
+
+.sidebar-menu.fixed.collapsed .linecons-mail{
+	margin-left: 25px;
+}
+
+.percel-weight .form-block label{
+	margin-right: 20px ;
+}
+
+.admin.sidebar-menu {
+	display: table-cell;
+	position: relative;
+	width: 245px;
+}
+
+.tab-pane > .row{
+	margin: 25px 0px;
+}
+
+.btn-form{
+	min-width: 200px;
+	height: 40px;
+}
+
+
+.form-control.select2-container {
+	/*height: 50px !important;*/
+	padding: 0;
+}
+
+.table > tbody > tr > td, .table > tfoot > tr > td, .table > tbody > tr > th, .table > tfoot > tr > th {
+	border-top: 0;
+	border-bottom: 1px solid #ecd94e;
+	vertical-align: middle;
+}
+
+.table > thead > tr > td, .table > thead > tr > th {
+	border-bottom: 1px solid #f2e559;
+}
+
+.table > thead:first-child > tr:first-child > th{
+	border-top: 1px solid white;
+}
+
+.nav.nav-tabs.merchant-tabs > li > a {
+	background-color: #f2c955;
+}
+
+.nav.nav-tabs.merchant-tabs > li.active > a {
+	background-color: #c6c1b1;
+}
+.main-menu{
+		text-transform: capitalize;
+}
+
+.profile-env .row .col-sm-3{
+	padding:0;
+}
+
+.merchant{
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.merchant .xe-widget.xe-counter-block .xe-upper .xe-label{
+	padding: 5px 10px;
+    padding-bottom: 0px;
+}
+
+.merchant .xe-widget.xe-counter-block .xe-lower-profile, .xe-widget.xe-progress-counter .xe-lower-profile {
+    padding: 5px 12px;
+	font-size: 9px;
+}
+
+.profile-env .user-info-sidebar .user-info-list {
+    display: inline-block;
+    margin: 0 7px;
+}
+
+.profile-env .user-info-sidebar .user-title {
+    margin-bottom: 15px;
+}
+
+ .merchant .xe-widget.xe-counter-block .xe-upper .xe-label .num{
+	font-size: 20px;
+ }
+ 
+ .sidebar-user-info .user-profile span strong {
+    font-size: 16px;
+ }
+ 
+ .sidebar-user-info .user-profile img {
+    margin-right: 7px;
+}
+
+.linecons-truck , .linecons-wallet, .linecons-mail{
+    margin-left: -4px;
+    margin-right: 2px !important;
+}
+
+.form-group .form-control.textarea{
+	height: 140px !important;
+}
+
+.admin-datatable .table-responsive[data-pattern="priority-columns"] {
+	border: 0px solid #ead24c;
+}
+
+#yadcf-filter-wrapper--search-datatable-6 select #yadcf-filter--example-3-6 {
+	padding: 5px !important;
+}
+
+.table-responsive .row{
+	margin: 0;
+}
+
+footer {
+	height: 36px;
+	bottom: 0;
+	width: 100%;
+}
+
+.form-group {
+	height: 80px;
+}
+
+.table-responsive {
+	 border: 0px solid #eee;
+}
+
+.zone-description{
+	height: 100px !important;
+}
